@@ -1,0 +1,17 @@
+{
+  "store": {
+    "name": "Letture",
+    "books": [
+      {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": 2008
+      },
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "year": 1999
+      }
+    ]
+  }
+}

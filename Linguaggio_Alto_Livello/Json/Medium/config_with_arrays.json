@@ -1,0 +1,8 @@
+{
+  "app": "Mix",
+  "features": ["login", "dashboard", "report"],
+  "limits": {
+    "maxUsers": 50,
+    "timeoutSeconds": 30
+  }
+}

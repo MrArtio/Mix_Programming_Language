@@ -1,22 +1,44 @@
-Welcome to this Repository!
+Benvenuto in questa Repository!
 
-Here you will find exercises ranging from the easiest to the most difficult, using different programming languages.
-The goal is to give everyone the chance to learn.
+Questa repo raccoglie esercizi di programmazione ordinati per livello di lettura umana del linguaggio:
 
-What I ask, if you join this Repository, is to help me if you have the ability to do so.
+- Linguaggio di Alto Livello
+- Linguaggio di Medio Livello
+- Linguaggio di Basso Livello
 
-Just a few rules:
+All'interno di ogni categoria trovi i linguaggi disponibili, e per ciascun linguaggio ci sono tre livelli fissi:
 
-First rule: Please follow the structure I’ve set. If there are categories for programming languages, and each of them has subcategories for exercises, don’t scatter exercises randomly or put them in the wrong categories. Order brings clarity.
+- Easy
+- Medium
+- Hard
 
-Second rule: For each language category, remember to add a README to explain the exercises. You have full freedom on how to write it, but always respect the First rule.
+Ogni livello contiene almeno 3 esempi di codice.
 
-Third rule: Be clear and get straight to the point, so readers always know what they are looking at.
+## Linguaggi presenti
 
-Fourth rule: You can add as many exercises as you want, as long as they are documented in the README, but only with 3 difficulty levels: Easy, Medium, Hard.
+Legenda: ✅ presente, ❌ non presente.
 
-Fifth rule: The programming languages can be any, but the 3 difficulty levels are fixed—no additional ones will be accepted. There is no limit on the number of exercises per level, as long as they are organized into Folders and Subfolders.
+### Linguaggio di Alto Livello
 
-Last rule (less important but still necessary): Before confirming the addition of your exercises, I will carefully review what has been done. If it doesn’t meet the requirements, I won’t accept it; if it does, I may accept it immediately. The most important thing is that contributors don’t hinder each other’s work.
+- Java ✅
+- JavaScript ✅
+- Python ✅
+- JSON ✅
 
-Thank you for your attention, and I wish you lots of fun!
+### Linguaggio di Medio Livello
+
+- C ✅
+
+### Linguaggio di Basso Livello
+
+- Assembly (NASM x86-64) ✅
+
+## Regole principali
+
+1. Segui sempre la struttura indicata (categoria -> linguaggio -> livello).
+2. Ogni linguaggio deve avere un README.md che spiega come eseguire gli esempi e come aggiungerne di nuovi.
+3. Sii chiaro e diretto nelle descrizioni degli esercizi.
+4. I livelli ammessi sono solo Easy, Medium, Hard.
+5. Gli esercizi devono essere organizzati in cartelle e sottocartelle.
+
+Grazie per il contributo e buon divertimento!
