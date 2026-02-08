@@ -1,0 +1,11 @@
+{
+  "trip": {
+    "destination": "Tokyo",
+    "days": 5,
+    "itinerary": [
+      {"day": 1, "activity": "Shibuya"},
+      {"day": 2, "activity": "Musei"},
+      {"day": 3, "activity": "Kyoto"}
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "name": "Sara",
+      "orders": [
+        {"id": 101, "total": 29.9},
+        {"id": 102, "total": 49.0}
+      ]
+    },
+    {
+      "name": "Paolo",
+      "orders": [
+        {"id": 103, "total": 15.5}
+      ]
+    }
+  ]
+}
