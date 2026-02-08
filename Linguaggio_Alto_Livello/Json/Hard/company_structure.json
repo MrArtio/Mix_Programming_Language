@@ -1,0 +1,15 @@
+{
+  "company": {
+    "name": "Tech Italia",
+    "departments": [
+      {
+        "name": "Engineering",
+        "employees": ["Luca", "Marta", "Elena"]
+      },
+      {
+        "name": "Marketing",
+        "employees": ["Giovanni", "Sofia"]
+      }
+    ]
+  }
+}
